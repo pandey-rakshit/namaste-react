@@ -1,5 +1,11 @@
 # Chapter 4 - Code Refactoring
 
+In chapter 3,
+
+We see whats a react way printing Hello world.
+
+Now before moving forward let us do come code refactoring and reason why its important
+
 - To follow the best practice we must use separate javascript file for all dom manipulation.
 
 - Also if we don't use separate js file then with time or when project grows the file will be quite tedious and will not look good and quite difficult to understand as well even worse when debugging.
