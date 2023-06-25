@@ -1,6 +1,6 @@
 # Chapter 4 - Code Refactoring
 
-In chapter 3,
+In [`chapter 3`](../chapter3/readme.md),
 
 We see whats a react way printing Hello world.
 

@@ -19,6 +19,6 @@ Chapter 1 contain just basic HTML structure which display a `heading` say `Hello
 </html>
 ```
 
-> **Note:** In the next chapter,
+> **Note:** In the [`next chapter`](../chapter2/readme.md),
 >
 > we will discuss about how to create element using javascript.

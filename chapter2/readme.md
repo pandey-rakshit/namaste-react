@@ -1,6 +1,6 @@
 # Chapter 2 | Hello World using javascript
 
-In `chapter 1`,
+In [`chapter 1`](../chapter1/readme.md),
 
 we saw the basic heading inside div using plan HTML
 
@@ -31,4 +31,6 @@ we saw the basic heading inside div using plan HTML
 </html>
 ```
 
-**Note:** In the next chapter, we will discuss about how we can achieve this using react.
+> **Note:** In the [`next chapter`](../chapter3/readme.md),
+>
+> we will discuss about how we can achieve this using react.

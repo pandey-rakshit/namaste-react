@@ -1,6 +1,6 @@
 # Chapter 3 - React
 
-In chapter 2,
+In [`chapter 2`](../chapter2/readme.md),
 
 we say how we create add element into html file using javascript.
 
@@ -95,4 +95,6 @@ root.render(heading);
 // render the heading inside root
 ```
 
-**Note:** In the next chapter, we will discuss about code refactoring and adding css.
+> **Note:** In the [`next chapter`](../chapter4/readme.md),
+>
+> we will discuss about code refactoring and adding css.
