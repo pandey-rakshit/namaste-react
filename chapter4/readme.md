@@ -40,6 +40,8 @@ b - options or {} object that holds the attributes of the element
 const heading = React.createElement("h1", { id: "heading" }, "Hello World");
 
 // this will create a h1 tag element that have id - heading and content Hello World
+
+console.log(heading); // Object
 ```
 
 ```html
