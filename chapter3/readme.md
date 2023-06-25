@@ -63,3 +63,34 @@ react-cdn-link is actually the core react file that is written by the facebook d
 [`react-dom-cdn-link`](https://unpkg.com/react-dom@18/umd/react-dom.development.js)
 
 react-dom-cdn-link is again a javascript file that is used to manupulate react-dom or virtual dom use can access dom using this file.
+
+## Hello World from React
+
+```js
+// Creating Heading
+const heading = React.createElement("h1", {}, "Hello World from React!");
+
+/*
+
+  React comes with ample of methods to make things easy
+
+  one of the react method is createElement which takes 3 argument
+  1 - tag / element name thats need to be created
+  2 - object (options)
+  3 - content 
+
+*/
+
+// to add child in root first we need to tell react about root
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
+/*
+  createRoot is a method of ReactDom that help react to tell react about root element where all the rendering stuff will take place.
+
+*/
+
+root.render(heading);
+
+// render the heading inside root
+```
