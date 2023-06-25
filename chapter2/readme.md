@@ -31,4 +31,4 @@ we saw the basic heading inside div using plan HTML
 </html>
 ```
 
-**Note:** In the next chapter, we will discuss about how we can achive this using react.
+**Note:** In the next chapter, we will discuss about how we can achieve this using react.

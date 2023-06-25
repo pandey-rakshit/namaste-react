@@ -62,7 +62,7 @@ react-cdn-link is actually the core react file that is written by the facebook d
 
 [`react-dom-cdn-link`](https://unpkg.com/react-dom@18/umd/react-dom.development.js)
 
-react-dom-cdn-link is again a javascript file that is used to manupulate react-dom or virtual dom use can access dom using this file.
+react-dom-cdn-link is again a javascript file that is used to manipulate react-dom or virtual dom use can access dom using this file.
 
 ## Hello World from React
 
