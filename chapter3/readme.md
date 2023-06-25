@@ -94,3 +94,5 @@ root.render(heading);
 
 // render the heading inside root
 ```
+
+**Note:** In the next chapter, we will discuss about code refactoring and adding css.
