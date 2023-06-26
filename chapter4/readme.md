@@ -49,3 +49,7 @@ console.log(heading); // Object
 
 <h1 id="heading">Hello World</h1>
 ```
+
+> In [`next chapter`](../chapter5/readme.md),
+>
+> we will discuss how to ignite the app making app production ready.
