@@ -67,3 +67,7 @@ suppose there is a package we need in our project call `parcel` so as a project 
 - Differential Bundling - support older browser
 - HTTPS
 - Tree Shaking - remove unused code
+
+> In [`next chapter`](../chapter6/readme.md),
+>
+> we will lay the foundation of React
