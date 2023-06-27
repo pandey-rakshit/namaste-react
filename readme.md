@@ -11,5 +11,7 @@ I'm using this repo for keeping notes and make me easy to understand and retain 
 | :-------: | :------------------------------------------------: | :---------------: |
 |     1     |      [Basic Hello World](chapter1/readme.md)       | [view](chapter1/) |
 |     2     | [Hello world using javascript](chapter2/readme.md) | [view](chapter2/) |
-|     3     |        [Namaste-react](chapter3/readme.md)         | [view](chapter3/) |
-|     4     |          [React-code](chapter4/readme.md)          | [view](chapter4/) |
+|     3     |        [Namaste React](chapter3/readme.md)         | [view](chapter3/) |
+|     4     |          [React code](chapter4/readme.md)          | [view](chapter4/) |
+|     5     |    [Production ready code](chapter5/readme.md)     | [view](chapter5/) |
+|     6     |       [React Foundation](chapter6/readme.md)       | [view](chapter6/) |
