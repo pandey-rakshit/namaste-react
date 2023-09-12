@@ -1,5 +1,9 @@
 # chapter 7 - Talk is cheap, show me the code.
 
+> In [`chapter 6`](../chapter6/readme.md),
+>
+> We discuss About JSX and Begin React Foundation
+
 ## Planning is the key
 
 - Before start coding, create a plan.

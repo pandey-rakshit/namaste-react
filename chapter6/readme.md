@@ -131,3 +131,7 @@ const HeadingComponent = () => {
 }
 
 ```
+
+> In [`next chapter`](../chapter7/readme.md),
+>
+> Talk is cheap, show me the code
